@@ -7,9 +7,9 @@ The **EffimedHUB** is a revolutionary healthcare management solution that combin
 - [Introduction](#introduction)
 - [Features](#features)
 - [Resource Management Dashboard](#resource-management-dashboard)
-- [Machine Learning Disease Severity Model](#machine-learning-disease-severity-model)
 - [Login Page](#login-page)
 - [Hospital Profile](#hospital-profile)
+- [Machine Learning Disease Prediction Model](https://disease-predictor-h5v8u3ywyn98tfbktgqmqr.streamlit.app/)
 - [How It Works](#how-it-works)
 - [Benefits for Hospitals](#benefits-for-hospitals)
 - [Collaboration and Expansion](#collaboration-and-expansion)
@@ -37,6 +37,7 @@ Project Name caters to hospitals of diverse sizes and specializations. Each hosp
 ![Hosptial Profile](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/341dabff-0997-4340-83c0-b2fe3f7b9d1d)
 
 ## Machine Learning Disease Predictor Model Working
+This ML disease predictor predicts disease based on the symptoms that the patient is suffering from. Moreover, it gives a short description of the predicted disease and it also suggest some precautionary measures of that disease.
 ![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/dfe2bc46-4ad3-43e4-9f94-ddd7281da317)
 
 ![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/508bd097-248d-4dca-9c91-70eb1a12e46a)
