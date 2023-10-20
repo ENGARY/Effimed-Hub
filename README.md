@@ -38,7 +38,7 @@ Project Name caters to hospitals of diverse sizes and specializations. Each hosp
 
 ## Machine Learning Disease Predictor Model Working
 ![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/dfe2bc46-4ad3-43e4-9f94-ddd7281da317)
-(https://github.com/ENGARY/Effimed-Hub/assets/123545481/508bd097-248d-4dca-9c91-70eb1a12e46a)
+![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/508bd097-248d-4dca-9c91-70eb1a12e46a)
 
 ## How It Works
 
