@@ -24,10 +24,6 @@ The **EffimedHUB** is a revolutionary healthcare management solution that combin
 - **Data Visualization:** Interactive charts and graphs provide visual representations of key metrics, facilitating data-driven decisions and trend analysis.
 ![Data Visualization](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/160cf44f-e9c4-4b6e-ad95-e464e12d540d
 )
-
-- **Disease Severity Assessment:** The machine learning model accurately diagnoses diseases and assesses their severity, aiding medical professionals in timely intervention and personalized treatment.
-![Disease Severity Assessment](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/d5fdf65c-b979-479c-a6ed-3daf1479e7d8)
-
 - **User-Friendly Interface:** An intuitive interface ensures ease of use for healthcare administrators and staff, promoting efficient navigation.
 ![User-Friendly Interface](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/a6f24097-affa-469d-ad21-c8c579ae70a4
 )
@@ -39,12 +35,8 @@ The login page provides administrators with a secure gateway to access the syste
 
 Project Name caters to hospitals of diverse sizes and specializations. Each hospital benefits from a tailored profile, optimizing operations, and improving patient care based on their unique offerings.
 ![Hosptial Profile](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/341dabff-0997-4340-83c0-b2fe3f7b9d1d)
-## Machine Learning Disease Severity Model
 
-Our machine learning model analyzes patient data to determine disease severity accurately. This model aids healthcare professionals in making informed decisions, prioritizing patient care, and improving treatment outcomes.
-![ML model SS1](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/98b3f5a1-88d7-45d7-86b5-3dc0adcca73f)
-![ML model SS2](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/70b0c37c-36b8-491c-93b5-aa1490e28e93)
-## Machine Learning Disease Model Working
+## Machine Learning Disease Predictor Model Working
 ![ML model SS3 WORKING ](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/d5fdf65c-b979-479c-a6ed-3daf1479e7d8)
 ![ML model SS4 WORKING](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/a5d3f310-14bd-4534-8ede-233828e81c04)
 
@@ -53,7 +45,7 @@ Our machine learning model analyzes patient data to determine disease severity a
 1. **Login Process:** Administrators access the system securely through the login page.
 2. **Resource Management:** Hospital staff utilize the dashboard to manage resources effectively.
 3. **Patient Care:** Medical professionals leverage patient management features for enhanced care.
-4. **Machine Learning:** The ML model assesses disease severity to aid treatment decisions.
+4. **Machine Learning:** The ML model predicts the disease based on the symptoms of the patient.
 
 ## Benefits for Hospitals
 
@@ -71,11 +63,10 @@ We welcome collaboration with healthcare institutions seeking innovative solutio
 ## Contact
 
 For inquiries and collaboration, please contact:
-- **Akshay Kumar Sharma:** 
-- **Email:** akshayne912@email.com
+- **Arunima Negi:** 
+- **Email:** arunima.negi@yahoo.com
 ## Contributors 
-- **Akshay Kumar Sharma:** 
-- **Rachit Yadav:** 
-- **Suhani Nagpal:** 
-- **Siddharth :** 
+- **Arunima Negi:** 
+- **Dhaani Jain:** 
+- **Aryan Gupta:**  
 
