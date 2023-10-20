@@ -6,9 +6,9 @@ The **EffimedHUB** is a revolutionary healthcare management solution that combin
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Resource Management Dashboard](#resource-management-dashboard)
-- [Login Page](#login-page)
-- [Hospital Profile](#hospital-profile)
+- [Resource Management Dashboard](https://effimed-hub.netlify.app/dashboard/)
+- [Login Page](https://effimed-hub.netlify.app/dashboard/login)
+- [Hospital Profile](https://effimed-hub.netlify.app/dashboard/profile)
 - [Machine Learning Disease Prediction Model](https://disease-predictor-h5v8u3ywyn98tfbktgqmqr.streamlit.app/)
 - [How It Works](#how-it-works)
 - [Benefits for Hospitals](#benefits-for-hospitals)
