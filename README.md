@@ -37,8 +37,8 @@ Project Name caters to hospitals of diverse sizes and specializations. Each hosp
 ![Hosptial Profile](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/341dabff-0997-4340-83c0-b2fe3f7b9d1d)
 
 ## Machine Learning Disease Predictor Model Working
-![ML model SS3 WORKING ](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/d5fdf65c-b979-479c-a6ed-3daf1479e7d8)
-![ML model SS4 WORKING](https://github.com/Cappybara12/Effimed-Hub/assets/122734275/a5d3f310-14bd-4534-8ede-233828e81c04)
+![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/dfe2bc46-4ad3-43e4-9f94-ddd7281da317)
+(https://github.com/ENGARY/Effimed-Hub/assets/123545481/508bd097-248d-4dca-9c91-70eb1a12e46a)
 
 ## How It Works
 
