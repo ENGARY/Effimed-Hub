@@ -42,6 +42,8 @@ This ML disease predictor predicts disease based on the symptoms that the patien
 
 ![ML Disease predictor Model Working](https://github.com/ENGARY/Effimed-Hub/assets/123545481/508bd097-248d-4dca-9c91-70eb1a12e46a)
 
+[Github for model](https://github.com/ENGARY/Disease-Predictor)
+
 ## How It Works
 
 1. **Login Process:** Administrators access the system securely through the login page.
